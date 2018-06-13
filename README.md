@@ -1,4 +1,6 @@
 # IPS Guest Default Language
+![Screenshot](https://i.imgur.com/iGfx30w.png)
+
 ## Description
 This plugin allows you to set default language for guests.
 
